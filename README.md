@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently seek jobs  
-- 🌱 Studying cybersecurity and computer science
+- 🌱 Studying computer engineering
 
 <br>
 <div> 
