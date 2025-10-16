@@ -13,7 +13,7 @@
 - 💼 Foco em me tornar um **Desenvolvedor**
 - 📘 Tenho conhecimento em **JavaScript, Node.js e SQL Server**
 - 🌱 Aprendendo mais sobre **back-end**, **banco de dados** e **boas práticas de código**
-- 💬 Gosto de entender como as coisas funcionam "por baixo do capô" — desde lógica até infraestrutura
+- 💬 Gosto de entender como as coisas funcionam
 
 ---
 
