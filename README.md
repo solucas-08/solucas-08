@@ -2,14 +2,14 @@
 <h1 align="center">👋 Olá, eu sou o Lucas!</h1>
 
 <p align="center">
-  🚀 <strong>Estudante de Engenharia da Computação</strong> &nbsp;|&nbsp; 💻 <strong>Desenvolvedor em formação</strong>  
+  🚀 <strong>Estudante de Sistemas de Informação</strong> &nbsp;|&nbsp; 💻 <strong>Desenvolvedor em formação</strong>  
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de **Engenharia da Computação**
+- 🎓 Estudante de **Sistemas de Informação**
 - 💼 Foco em me tornar um **Desenvolvedor**
 - 📘 Tenho conhecimento em **JavaScript, Node.js e SQL Server**
 - 🌱 Aprendendo mais sobre **back-end**, **banco de dados** e **boas práticas de código**
