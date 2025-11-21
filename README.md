@@ -2,17 +2,16 @@
 <h1 align="center">👋 Olá, eu sou o Lucas!</h1>
 
 <p align="center">
-  🚀 <strong>Estudante de Sistemas de Informação</strong> &nbsp;|&nbsp; 💻 <strong>Desenvolvedor em formação</strong>  
+  🚀 <strong>Suporte Técnico e Infraestrutura de TI | Foco em Segurança de Redes</strong> &nbsp;
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 💼 Foco em me tornar um **Desenvolvedor**
+- 🎓 Estudante de **Sistemas de Informação** e **Cibersegurança**
 - 📘 Tenho conhecimento em **JavaScript, Node.js e SQL Server**
-- 🌱 Aprendendo mais sobre **back-end**, **banco de dados** e **boas práticas de código**
+- 🌱 Aprendendo mais sobre **Redes**, **Infraestrutura** e **Segurança da informação**
 - 💬 Gosto de entender como as coisas funcionam
 
 ---
